@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/nav_about"
+        android:title="About"
+        android:icon="@drawable/about"/>
+    <item
+        android:id="@+id/nav_zsegw"
+        android:title="ZSEGW"
+        android:icon="@drawable/zsegw"/>
+    <item
+        android:id="@+id/nav_exit"
+        android:title="Exit"
+        android:icon="@drawable/exit"/>
+</menu>
